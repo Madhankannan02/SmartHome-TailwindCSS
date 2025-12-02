@@ -1,3 +1,5 @@
+import { NavBar } from "./components/NavBar";
+
 export function App(){
   return(
     <body className="max-w-[2000px]
@@ -7,6 +9,8 @@ export function App(){
     bg-white
     dark:bg-neutral-800
     ">
+
+      <NavBar />
 
     </body>
   );
