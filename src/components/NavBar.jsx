@@ -58,6 +58,7 @@ export function NavBar() {
     flex-col
     gap-4
     absolute
+    z-40
     right-0
     left-0
     top-16
