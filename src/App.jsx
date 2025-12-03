@@ -1,6 +1,7 @@
 import { NavBar } from "./components/NavBar";
 import { Hero } from "./components/Hero";
 import { Body } from "./components/Body";
+import { Partners } from "./components/Partners";
 
 export function App(){
   return(
@@ -16,6 +17,7 @@ export function App(){
     <NavBar />
     <Hero />
     <Body />
+    <Partners />
     </>
   );
 }

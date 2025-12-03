@@ -1,5 +1,6 @@
 export function Body() {
- return (<div className="grid
+ return (
+ <div className="grid
  gap-12
  sm:gap-16
  md:gap-24
