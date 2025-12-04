@@ -34,7 +34,7 @@ export function CtaSection() {
               darkk:ring-offset-neutral-800
                         "
           >
-            Download the App
+            Sign Up
           </a>
         </div>
 

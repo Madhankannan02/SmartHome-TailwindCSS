@@ -3,6 +3,7 @@ import { Hero } from "./components/Hero";
 import { Body } from "./components/Body";
 import { Partners } from "./components/Partners";
 import { CtaSection } from "./components/CtaSection";
+import { FormSection } from "./components/FormSection";
 
 export function App(){
   return(
@@ -20,6 +21,7 @@ export function App(){
     <Body />
     <Partners />
     <CtaSection />
+    <FormSection />
     </>
   );
 }
