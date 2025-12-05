@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a smart home product, built entirely using **Tailwind CSS**. This project served as my initial hands-on experience with the utility-first CSS framework.
 
-<img width="1807" height="849" alt="Image" src="https://github.com/user-attachments/assets/b4a5474a-2aba-4d88-ae21-f9d5cccc428a" /
+<img width="1807" height="849" alt="Image" src="https://github.com/user-attachments/assets/b4a5474a-2aba-4d88-ae21-f9d5cccc428a" />
 
 ## ✨ Features
 
