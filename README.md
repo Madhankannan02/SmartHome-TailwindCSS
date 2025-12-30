@@ -45,7 +45,7 @@ npm -v
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Madhankannan02/SmartHome-TailwindCSS
     cd homesmart-landing-page
     ```
 
